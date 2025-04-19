@@ -1,0 +1,9 @@
+Title: Welcome to My Blog
+Date: April 19, 2025
+---
+Hi! I've recently started learning coding again. Once upon a time I learned Javascript (in high school) and I absolutely loved it. I remember I would do all the "extra" lessons in the homework because I thought it was so fun to be able to write code and make little mini games.<p> When starting college I decided to focus on Biology which I also loved so unforunately I stopped coding entirely. Now in my late 20s I decided to pick it back up again, especially with the onset of AI. So I started doing the Python course at code academy! So far it's very simple and sometimes feels grueling since I'm going through the basic lessons but I keep reminding myself that it's important to practice, so I plan to keep it up! </p> <p> On the side I've also started this website :). This is completely with the help of CoPilot in VScode, it's amazing how far AI has come. </p><p> Hope to be able to keep this up. See y'all in the next one. </p>
+
+Title: Sample Blog Post
+Date: April 18, 2025
+---
+This is a placeholder for a blog post. You can add more content here.
